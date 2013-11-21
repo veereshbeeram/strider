@@ -1,0 +1,10 @@
+Description
+==========
+
+music_rearranger.py
+===================
+
+Arrange your mp3 music collection into meaningful directories automatically & at scale.
+This simple program takes input & output folders as 2 arguments. then for each MP3 file in input folder, it reads the artist & album names, then creates new dir structure consisting of artist/album name in output dir & moves the file. This means your music is stored in meaningful folders, and any number of files can be rearranged at once. 
+So go ahead and clean up your music collection
+ This program uses eyeD3 version 0.6, you can get eyeD3 from http://eyed3.nicfit.net/
